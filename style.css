@@ -20,20 +20,21 @@
     
 }
 .logo{
-    width:120px;
+    width:100px;
     cursor:pointer;
     
 }
 .navbar ul liv{
     list-style: none;
     display:inline-block;
-    margin: 0 20px;
+    margin: 0 55px;
     position:relative;
 }
 .navbar ul liv a{
     text-decoration:none;
     color:#fff;
     text-transform:uppercase;
+    font-size:20px
     
 }
 .navbar ul liv::after{
